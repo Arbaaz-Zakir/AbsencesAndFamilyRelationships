@@ -1,0 +1,21 @@
+Group: <your group name, exactly as it appears in Canvas>
+
+Question
+========
+
+RQ: <your research question>
+
+Null hypothesis: <your null hypothesis>
+
+Alternative hypothesis: <your alternative hypothesis>
+
+Dataset
+=======
+
+URL: <the Kaggle url for your dataset>
+
+Column Headings:
+
+```
+<run colnames() on your dataset in R, and copy the output here>
+```
