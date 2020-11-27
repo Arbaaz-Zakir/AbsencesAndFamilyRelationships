@@ -3,8 +3,7 @@ Group : new_group 46
 Question
 ========
 
-RQ: Is there a difference in the mean number of school absences between students who report different quality of family relationships
-(1 very bad - 5 excellent)
+RQ: Is there a difference in the mean number of school absences between students who report different quality of family relationships(1 very bad - 5 excellent)?
 
 Null hypothesis: There is no difference in the mean number of school absences between students who report different quality of 
 family relationships (1 very bad - 5 excellent)
@@ -20,5 +19,13 @@ URL: https://www.kaggle.com/uciml/student-alcohol-consumption?select=student-mat
 Column Headings:
 
 ```
-<run colnames() on your dataset in R, and copy the output here>
+> students <- read.csv("student-mat.csv")
+> colnames(students)
+ [1] "school"     "sex"        "age"        "address"    "famsize"   
+ [6] "Pstatus"    "Medu"       "Fedu"       "Mjob"       "Fjob"      
+[11] "reason"     "guardian"   "traveltime" "studytime"  "failures"  
+[16] "schoolsup"  "famsup"     "paid"       "activities" "nursery"   
+[21] "higher"     "internet"   "romantic"   "famrel"     "freetime"  
+[26] "goout"      "Dalc"       "Walc"       "health"     "absences"  
+[31] "G1"         "G2"         "G3"   
 ```
