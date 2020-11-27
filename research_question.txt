@@ -1,4 +1,4 @@
-new_group 46 : Ashish Rajkumar Birle, Sai Kiran Reddy Bommanreddy, Z Khaja Moinuddin, Z Ramandeep Kaur, Arbaaz Zakir
+Group : new_group 46
 
 Question
 ========
