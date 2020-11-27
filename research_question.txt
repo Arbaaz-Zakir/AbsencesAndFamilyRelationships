@@ -8,7 +8,7 @@ RQ: Is there a difference in the mean number of school absences between students
 Null hypothesis: There is no difference in the mean number of school absences between students who report different quality of 
 family relationships (1 very bad - 5 excellent)
 
-Alternative hypothesis: There is difference in the mean number of school absences between students who report different quality of 
+Alternative hypothesis: There is a difference in the mean number of school absences between students who report different quality of 
 family relationships (1 very bad - 5 excellent)
 
 Dataset
