@@ -1,18 +1,17 @@
-Group: <your group name, exactly as it appears in Canvas>
+new_group 46 : Ashish Rajkumar Birle, Sai Kiran Reddy Bommanreddy, Z Khaja Moinuddin, Z Ramandeep Kaur, Arbaaz Zakir
 
 Question
 ========
 
-RQ: <your research question>
+RQ: Is there a difference in the mean number of school absences between students who report different quality of family relationships (1 very bad - 5 excellent)
+Null hypothesis: There is no difference in the mean number of school absences between students who report different quality of family relationships (1 very bad - 5 excellent)
 
-Null hypothesis: <your null hypothesis>
-
-Alternative hypothesis: <your alternative hypothesis>
+Alternative hypothesis: There is difference in the mean number of school absences between students who report different quality of family relationships (1 very bad - 5 excellent)
 
 Dataset
 =======
 
-URL: <the Kaggle url for your dataset>
+URL: https://www.kaggle.com/uciml/student-alcohol-consumption?select=student-mat.csv
 
 Column Headings:
 
