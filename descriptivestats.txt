@@ -1,0 +1,8 @@
+"   Very bad" "     Bad" "   Average" "     Good" "  Excellent"
+"" "Min.   : 0.00  " "Min.   : 0.0  " "Min.   : 0.00  " "Min.   : 0.00  " "Min.   : 0.00  "
+"" "1st Qu.: 3.50  " "1st Qu.: 2.0  " "1st Qu.: 1.75  " "1st Qu.: 0.00  " "1st Qu.: 0.00  "
+"" "Median : 5.50  " "Median : 5.5  " "Median : 4.00  " "Median : 3.00  " "Median : 4.00  "
+"" "Mean   : 6.88  " "Mean   : 6.0  " "Mean   : 5.81  " "Mean   : 6.01  " "Mean   : 4.95  "
+"" "3rd Qu.:11.00  " "3rd Qu.: 9.5  " "3rd Qu.: 8.00  " "3rd Qu.: 8.00  " "3rd Qu.: 7.75  "
+"" "Max.   :14.00  " "Max.   :15.0  " "Max.   :25.00  " "Max.   :75.00  " "Max.   :56.00  "
+"" "NA's   :387  " "NA's   :377  " "NA's   :327  " "NA's   :200  " "NA's   :289  "

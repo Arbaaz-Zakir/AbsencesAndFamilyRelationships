@@ -21,7 +21,7 @@ boxplot(yabsences ~ xfamrel, main = "Boxplot to Show Distribution In Recorded Ab
         xlab = "Self Reported Family Relationships (1 - very bad to 5 - excellent)", ylab = "Number of Recorded Absences", pch = 19, frame = T)
 
 #overlaying all the data points on the boxplot in cyan
-points(y~x, col="cyan")
+points(yabsences~xfamrel, col="cyan")
 
 #overlaying means on boxplot as a red '+'
 points(M,col="red",pch="+",cex=2)
